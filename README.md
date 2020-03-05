@@ -58,6 +58,8 @@ A curated selection of blog posts on Go
 ### runtime
 - [深入golang runtime的调度](https://zboya.github.io/post/go_scheduler/#runtime%E8%B0%83%E5%BA%A6%E5%99%A8%E7%9A%84%E5%90%AF%E5%8A%A8) (调度器)
 
+- [深度解密调度器源码系列(饶全成)](https://qcrao.com/2019/09/06/dive-into-go-scheduler-source-code/)
+
 ### 测试
 - [Testing in Go](https://ieftimov.com/categories/testing-in-go/) (测试)
 
