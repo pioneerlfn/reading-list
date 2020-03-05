@@ -4,26 +4,51 @@ A curated selection of blog posts on Go
 
 ## Basic
 
+- [Go By Example](https://gobyexample.com/)
+- [Go语言实战读书笔记](https://www.flysnow.org/2017/03/04/go-in-action-go-package.html)
+
+### iota
+- [彻底搞懂 golang 里的 iota](https://blog.wolfogre.com/posts/golang-iota/)
+
 ### json
 - [Go json cookbook](https://eli.thegreenplace.net/2019/go-json-cookbook/) (json处理)
 
 ### 函数
 - [First class function in Go](https://mp.weixin.qq.com/s/0zSFzPVLdTl_5IoFgwtnFA)
 
+### Context
+- [Using context cancellation in Go 💀](https://www.sohamkamani.com/blog/golang/2018-06-17-golang-using-context-cancellation/)
+
+## 进阶
+
 ### TCP
 - [graceful-shutdown-of-a-tcp-server-in-go/](https://eli.thegreenplace.net/2020/graceful-shutdown-of-a-tcp-server-in-go/) (优雅关闭TCP服务器)
 - [Go语言中如何开启 TCP keepalive？](https://mp.weixin.qq.com/s/v8QPxefWLfAmgPNW2HOYHA)
+
+### 热加载
+- [Go配置文件热加载 - 发送系统信号](https://segmentfault.com/a/1190000019436438)
+
 
 ### patterns
 - [3-ways-to-iterate-in-go.html](https://blog.kowalczyk.info/article/1Bkr/3-ways-to-iterate-in-go.html) (迭代器)
 
 - [PubSub using channels in Go](https://eli.thegreenplace.net/2020/pubsub-using-channels-in-go/) (发布-订阅模式)
 
+- [Go: Broadcast channels?](https://science.mroman.ch/gobroadcastchannels.html) (广播📢)
+
 - [Let's Create a Simple Load Balancer With Go](https://kasvith.me/posts/lets-create-a-simple-lb-go/) (负载均衡)
+
+- [Go: Factories I](https://science.mroman.ch/gofactory.html)
 
 连接池
 - [Go夜读:#67 SQL 连接池分析 （database/sql pool reading）[ Go Golang 学习]](https://www.bilibili.com/video/av75690189?from=search&seid=5328732865312480571)
 - [Golang连接池的几种实现案例](https://juejin.im/post/5e58e3b7f265da57537eb7ed#heading-7)
+
+- [动手实现raft](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/)
+
+### 性能优化
+- [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
+
 
 ### 软件工程
 - [Dependency Injection in Go](https://blog.drewolson.org/dependency-injection-in-go) (依赖注入)
@@ -55,6 +80,13 @@ A curated selection of blog posts on Go
 ### 其他
 - [IM系统的前世今生—2小时用Go快速搭建高性能、可拓展的IM系统](https://mp.weixin.qq.com/s/6LG4D4Bt3_lM0QW2RkqI_A)
 
+## Books
+- [Essential Go](https://www.programming-books.io/essential/go/)
+- [Go 101](https://go101.org/)
+- [Go语言圣经](https://yar999.gitbooks.io/gopl-zh/content/)
+- [Go语言高级编程](https://yar999.gitbooks.io/gopl-zh/content/)
+- [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
+
 
 ## Repositories
 - [Awesome Go Books](https://github.com/dariubs/GoBooks)
@@ -72,5 +104,5 @@ A curated selection of blog posts on Go
 - [鸟窝](https://colobu.com/)
 - [飞雪无情](https://www.flysnow.org/)
 - [饶全成](http://qcrao.com/)
-
+- [Draveness](https://draveness.me/index)
 
