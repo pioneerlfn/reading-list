@@ -96,6 +96,7 @@ A curated selection of blog posts on Go
 - [Awesome Go LeetCode](https://github.com/kylesliu/awesome-golang-leetcode)
 - [Data Structure Libraries and Algorithms implementation](https://github.com/priyankchheda/algorithms)
 - [Go Patterns](https://github.com/tmrts/go-patterns)
+- [每日一库](https://github.com/darjun/go-daily-lib)
 
 ## 博客订阅
 - [Dave Cheney](https://dave.cheney.net/)
