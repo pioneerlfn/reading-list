@@ -95,6 +95,7 @@ A curated selection of blog posts on Go
 - [Gopher Reading List](https://github.com/enocom/gopher-reading-list)
 - [Awesome Go LeetCode](https://github.com/kylesliu/awesome-golang-leetcode)
 - [Data Structure Libraries and Algorithms implementation](https://github.com/priyankchheda/algorithms)
+- [awesome Go](https://github.com/avelino/awesome-go) (A curated list of awesome Go frameworks, libraries and software.)
 - [Go Patterns](https://github.com/tmrts/go-patterns)
 - [每日一库](https://github.com/darjun/go-daily-lib)
 
