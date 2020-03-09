@@ -11,6 +11,10 @@ A curated selection of blog posts on Go
 ### iota
 - [彻底搞懂 golang 里的 iota](https://blog.wolfogre.com/posts/golang-iota/)
 
+### sort
+- [Sorting custom structures in Golang. A quick recipe.](https://thenotexpert.com/golang-sorting/) (可以用sort.Slice()绕开Len,Less,Swap这三个冗长乏味的函数)
+
+
 ### json
 - [Go json cookbook](https://eli.thegreenplace.net/2019/go-json-cookbook/) (json处理)
 
