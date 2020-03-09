@@ -24,6 +24,7 @@ A curated selection of blog posts on Go
 ### TCP
 - [graceful-shutdown-of-a-tcp-server-in-go/](https://eli.thegreenplace.net/2020/graceful-shutdown-of-a-tcp-server-in-go/) (优雅关闭TCP服务器)
 - [Go语言中如何开启 TCP keepalive？](https://mp.weixin.qq.com/s/v8QPxefWLfAmgPNW2HOYHA)
+- [Golang netpoll](http://likakuli.com/post/2018/06/06/golang-network/) (通过读这篇文章，终于搞清楚了`netFd`和`poll.FD`的江湖地位)
 
 ### 热加载
 - [Go配置文件热加载 - 发送系统信号](https://segmentfault.com/a/1190000019436438)
