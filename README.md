@@ -6,6 +6,7 @@ A curated selection of blog posts on Go
 
 - [Go By Example](https://gobyexample.com/)
 - [Go语言实战读书笔记](https://www.flysnow.org/2017/03/04/go-in-action-go-package.html)
+- [Essential Go](https://www.programming-books.io/essential/go/)
 
 ### iota
 - [彻底搞懂 golang 里的 iota](https://blog.wolfogre.com/posts/golang-iota/)
