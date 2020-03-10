@@ -5,3 +5,12 @@
 - [使用Python创建你自己的Shell(下)](http://www.codeceo.com/article/create-your-own-shell-in-python-part-2.html)
 
 
+### package、moudle以及import
+
+- [Absolute vs Relative Imports in Python(realpython)](https://realpython.com/absolute-vs-relative-python-imports/)
+
+python解释器查找module(也就是py文件)的顺序是
+```bash
+sys.modules --> built-in --> sys.path
+```
+sys.path[0]是解释器被调用来执行的py文件所在的目录。如果是以交互方式启动，那sys.path[0] 就是' '. 
