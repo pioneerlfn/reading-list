@@ -34,6 +34,9 @@ A curated selection of blog posts on Go
 ### 热加载
 - [Go配置文件热加载 - 发送系统信号](https://segmentfault.com/a/1190000019436438)
 
+### How to
+- [Writing a simple shell in Go](https://sj14.gitlab.io/post/2018/07-01-go-unix-shell/)
+
 
 ### patterns
 - [3-ways-to-iterate-in-go.html](https://blog.kowalczyk.info/article/1Bkr/3-ways-to-iterate-in-go.html) (迭代器)
