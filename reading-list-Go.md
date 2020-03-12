@@ -42,7 +42,7 @@ A curated selection of blog posts on Go
 
 ### How to
 - [Writing a simple shell in Go](https://sj14.gitlab.io/post/2018/07-01-go-unix-shell/)
-
+- [动手实现raft](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/)
 
 ### patterns
 - [3-ways-to-iterate-in-go.html](https://blog.kowalczyk.info/article/1Bkr/3-ways-to-iterate-in-go.html) (迭代器)
@@ -59,7 +59,7 @@ A curated selection of blog posts on Go
 - [Go夜读:#67 SQL 连接池分析 （database/sql pool reading）[ Go Golang 学习]](https://www.bilibili.com/video/av75690189?from=search&seid=5328732865312480571)
 - [Golang连接池的几种实现案例](https://juejin.im/post/5e58e3b7f265da57537eb7ed#heading-7)
 
-- [动手实现raft](https://eli.thegreenplace.net/2020/implementing-raft-part-0-introduction/)
+
 
 ### 性能优化
 - [Simple techniques to optimise Go programs](https://stephen.sh/posts/quick-go-performance-improvements)
