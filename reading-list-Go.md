@@ -55,9 +55,9 @@ A curated selection of blog posts on Go
 
 - [Go: Factories I](https://science.mroman.ch/gofactory.html)
 
-连接池
-- [Go夜读:#67 SQL 连接池分析 （database/sql pool reading）[ Go Golang 学习]](https://www.bilibili.com/video/av75690189?from=search&seid=5328732865312480571)
-- [Golang连接池的几种实现案例](https://juejin.im/post/5e58e3b7f265da57537eb7ed#heading-7)
+- connection pool
+    - [Go夜读:#67 SQL 连接池分析 （database/sql pool reading）[ Go Golang 学习]](https://www.bilibili.com/video/av75690189?from=search&seid=5328732865312480571)
+    - [Golang连接池的几种实现案例](https://juejin.im/post/5e58e3b7f265da57537eb7ed#heading-7)
 
 
 
