@@ -14,6 +14,8 @@ A curated selection of blog posts on Go
 ### sort
 - [Sorting custom structures in Golang. A quick recipe.](https://thenotexpert.com/golang-sorting/) (可以用sort.Slice()绕开Len,Less,Swap这三个冗长乏味的函数)
 
+### make
+
 
 ### json
 - [Go json cookbook](https://eli.thegreenplace.net/2019/go-json-cookbook/) (json处理)
@@ -54,6 +56,9 @@ A curated selection of blog posts on Go
 - [Let's Create a Simple Load Balancer With Go](https://kasvith.me/posts/lets-create-a-simple-lb-go/) (负载均衡)
 
 - [Go: Factories I](https://science.mroman.ch/gofactory.html)
+
+- [Go Decorator Function Pattern Tutorial](https://tutorialedge.net/golang/go-decorator-function-pattern-tutorial/)(装饰器)
+
 
 - connection pool
     - [Go夜读:#67 SQL 连接池分析 （database/sql pool reading）[ Go Golang 学习]](https://www.bilibili.com/video/av75690189?from=search&seid=5328732865312480571)
@@ -125,3 +130,5 @@ A curated selection of blog posts on Go
 - [饶全成](http://qcrao.com/)
 - [Draveness](https://draveness.me/index)
 
+## web site
+- [awesomer-go](https://awesomer-go.pantas.net/) (可查询、排序的awesome-go列表)
