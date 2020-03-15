@@ -74,6 +74,7 @@ A curated selection of blog posts on Go
 - [Dependency Injection in Go](https://blog.drewolson.org/dependency-injection-in-go) (依赖注入)
 - [Go lessons learnt by refactoring](https://anto.pt/post/go-lessons-learnt-by-refactoring)
 - [Moving Towards Domain Driven Design in Go](https://www.calhoun.io/moving-towards-domain-driven-design-in-go/)
+- [用面向对象设计原则理解 Go 中 interface](https://mp.weixin.qq.com/s/MqQ6b-Z_wvYe9YpNI5LDeA)
 
 ### runtime
 - [深入golang runtime的调度](https://zboya.github.io/post/go_scheduler/#runtime%E8%B0%83%E5%BA%A6%E5%99%A8%E7%9A%84%E5%90%AF%E5%8A%A8) (调度器)
