@@ -132,4 +132,5 @@ A curated selection of blog posts on Go
 - [Draveness](https://draveness.me/index)
 
 ## web site
+- [程序员开发效率神器汇总！](https://mp.weixin.qq.com/s/WjaHJHE7ZPbgo7QwIDwZzQ)(tencent)
 - [awesomer-go](https://awesomer-go.pantas.net/) (可查询、排序的awesome-go列表)
