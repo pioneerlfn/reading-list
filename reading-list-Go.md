@@ -134,6 +134,8 @@ A curated selection of blog posts on Go
 - [飞雪无情](https://www.flysnow.org/)
 - [饶全成](http://qcrao.com/)
 - [Draveness](https://draveness.me/index)
+- [calhoun.io](https://www.calhoun.io/)
+- [ieftimov](https://ieftimov.com/)
 
 ## web site
 - [程序员开发效率神器汇总！](https://mp.weixin.qq.com/s/WjaHJHE7ZPbgo7QwIDwZzQ)(tencent)
