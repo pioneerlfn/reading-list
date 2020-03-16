@@ -89,6 +89,10 @@ A curated selection of blog posts on Go
 - [Go Modules 终极入门](https://mp.weixin.qq.com/s/fNMXfpBhBC3UWTbYCnwIMg)
 - [Russ Cox:The Principles of Versioning in Go](https://research.swtch.com/vgo-principles)
 
+### Web编程
+- [Go Web编程之静态文件](https://juejin.im/post/5e1cfd2d6fb9a02ffd6eb56c)
+
+
 ### 数据库
 - [Go Web编程之数据库](https://juejin.im/post/5e277a85e51d450234249c7e)
 
