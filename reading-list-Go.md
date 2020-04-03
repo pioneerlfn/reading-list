@@ -106,6 +106,7 @@ A curated selection of blog posts on Go
 
 ### 其他
 - [IM系统的前世今生—2小时用Go快速搭建高性能、可拓展的IM系统](https://mp.weixin.qq.com/s/6LG4D4Bt3_lM0QW2RkqI_A)
+- [Understanding bytes in Go by building a TCP pro (slack server)](https://ieftimov.com/post/understanding-bytes-golang-build-tcp-protocol/)
 
 ## Books
 - [Essential Go](https://www.programming-books.io/essential/go/)
