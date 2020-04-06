@@ -95,6 +95,8 @@ A curated selection of blog posts on Go
 
 ### 数据库
 - [Go Web编程之数据库](https://juejin.im/post/5e277a85e51d450234249c7e)
+- [使用golang理解mysql的两阶段提交](https://mp.weixin.qq.com/s/KeZId8WScnS-rlc0kedEzw) (通过这篇文章，知道了Go中怎么写XA，也重读了mysql XA文档)
+
 
 ### Code Style
 - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
