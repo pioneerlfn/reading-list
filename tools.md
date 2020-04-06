@@ -1,5 +1,7 @@
 ## vim
 
+[精通 VIM ，此文就够了](https://zhuanlan.zhihu.com/p/68111471)
+
 删除光标到行末的内容: `d$`
 
 ## linux-command-line
