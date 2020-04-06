@@ -47,3 +47,50 @@
 
 ```
 
+## git
+
+[🌳🚀 CS Visualized: Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
+
+
+
+
+
+## 容器
+
+
+[一个在容器外用 tcpdump 命令对容器内的网络请求抓包的方法](https://mozillazg.com/2020/04/use-tcpdump-for-a-container-but-outside-container.html)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
