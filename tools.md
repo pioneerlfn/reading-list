@@ -1,3 +1,12 @@
+## shell
+
+- [编写可靠 bash 脚本的一些技巧](https://mp.weixin.qq.com/s/VmM_U4RefRBHwIw8NegC8Q)
+
+
+
+
+
+
 ## vim
 
 [精通 VIM ，此文就够了](https://zhuanlan.zhihu.com/p/68111471)
