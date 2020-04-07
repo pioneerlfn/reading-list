@@ -49,6 +49,14 @@
 
 ```
 
+ 
+`find . -name "*.go" | xargs grep -in "dup"`
+> 在当前目录下go文件中寻找包含"dup"的行.
+
+
+`sudo find / -size +1G | xargs ls -lhS`
+> 清理系统中大文件用.
+
 ## git
 
 [Git 分支管理实践 | 码云最佳实践](https://mp.weixin.qq.com/s/RSREs3MqxidPX8h8wJfv4Q)
