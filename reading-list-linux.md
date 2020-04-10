@@ -29,3 +29,7 @@ This is a collection of lectures and labs Linux kernel topics. The lectures focu
 ## file system
 
 - [关于 /dev/null 差点直播吃鞋的一个小问题](https://mp.weixin.qq.com/s/lYajWCb-ov8ctSkvdAmIUw)
+
+## 并发
+
+[Socket Server 的 N 种并发模型汇总](https://gocn.vip/topics/10192)

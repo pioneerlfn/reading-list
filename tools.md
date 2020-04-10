@@ -1,3 +1,14 @@
+## shell
+
+- [Advanced Bash-Scripting Guide](http://tldp.org/LDP/abs/html/) (The Linux Document Project)
+- [编写可靠 bash 脚本的一些技巧](https://mp.weixin.qq.com/s/VmM_U4RefRBHwIw8NegC8Q)
+
+
+
+
+
+
+
 ## vim
 
 [精通 VIM ，此文就够了](https://zhuanlan.zhihu.com/p/68111471)
@@ -48,6 +59,14 @@
     └── test_dir
 
 ```
+
+ 
+`find . -name "*.go" | xargs grep -in "dup"`
+> 在当前目录下go文件中寻找包含"dup"的行.
+
+
+`sudo find / -size +1G | xargs ls -lhS`
+> 清理系统中大文件用.
 
 ## git
 

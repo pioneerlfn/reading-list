@@ -97,7 +97,9 @@ A curated selection of blog posts on Go
 - [Go Web编程之数据库](https://juejin.im/post/5e277a85e51d450234249c7e)
 - [使用golang理解mysql的两阶段提交](https://mp.weixin.qq.com/s/KeZId8WScnS-rlc0kedEzw)
     > 通过这篇文章，知道了Go中怎么写XA，也重读了mysql XA文档.
+
     > 又学习了下2PC(DDIA),发现这篇文章中自己实现的TM太简陋了。合格的TM需要对任何决策或者指令或者收到的Prepare的回复做持久化日志。显然让client手动写这些代码是不对的，应该有相应的库封装一下。
+
 
 
 ### Code Style
