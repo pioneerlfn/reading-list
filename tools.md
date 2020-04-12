@@ -87,27 +87,6 @@
 
 
 
-## 其它
-
-用brew安装Mysql之后，将其加入开机启动项：
-
-1. 安装`brew service`命令
-
-```bash
-brew tap gapple/services
-
-```
-
-2. 启动mysql
-
-```bash
-brew service start mysql
-==> Successfully started `mysql` (label: homebrew.mxcl.mysql)
-```
-
-
-
-
 
 
 
