@@ -106,6 +106,7 @@ A curated selection of blog posts on Go
 - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [The Uber Go Style Guide](https://github.com/uber-go/guide/blob/master/style.md)
 - [Clean Go Code](https://github.com/Pungyeon/clean-go-article#Interfaces-in-Go)
+- [Thanos Coding Style Guide](https://thanos.io/contributing/coding-style-guide.md/)
 
 ### Tools
 - [An Overview of Go's Tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling)
