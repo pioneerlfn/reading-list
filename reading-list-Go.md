@@ -96,6 +96,7 @@ A curated selection of blog posts on Go
 
 
 ### 数据库
+- [Go database/sql tutorial](http://go-database-sql.org/index.html)
 - [Go Web编程之数据库](https://juejin.im/post/5e277a85e51d450234249c7e)
 - [使用golang理解mysql的两阶段提交](https://mp.weixin.qq.com/s/KeZId8WScnS-rlc0kedEzw)
     > 通过这篇文章，知道了Go中怎么写XA，也重读了mysql XA文档.
@@ -122,7 +123,9 @@ A curated selection of blog posts on Go
 - [Go 101](https://go101.org/)
 - [Go语言圣经](https://yar999.gitbooks.io/gopl-zh/content/)
 - [Go语言高级编程](https://yar999.gitbooks.io/gopl-zh/content/)
-- [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)
+- [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) (astaxie)
+- [webapp-with-golang-anti-textbook/](https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/)
+- [the-blockchain-way-of-programming](https://web3coach-public.s3.eu-central-1.amazonaws.com/the-blockchain-way-of-programming-newsletter-version.pdf)
 
 
 ## Repositories
