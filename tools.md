@@ -69,6 +69,12 @@
 `sudo find / -size +1G | xargs ls -lhS`
 > 清理系统中大文件用.
 
+### rename
+
+`rename 's/ /_/g' *`
+> 替换当前目录下文件名中的空格为`_`.
+
+
 ## git
 
 [Git 分支管理实践 | 码云最佳实践](https://mp.weixin.qq.com/s/RSREs3MqxidPX8h8wJfv4Q)

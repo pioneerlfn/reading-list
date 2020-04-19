@@ -59,6 +59,8 @@ A curated selection of blog posts on Go
 
 - [Go Decorator Function Pattern Tutorial](https://tutorialedge.net/golang/go-decorator-function-pattern-tutorial/)(装饰器)
 
+- [Understanding Condition Variable in Go](https://kaviraj.me/understanding-condition-variable-in-go/)(条件变量的使用场景)
+
 
 - connection pool
     - [Go夜读:#67 SQL 连接池分析 （database/sql pool reading）[ Go Golang 学习]](https://www.bilibili.com/video/av75690189?from=search&seid=5328732865312480571)
