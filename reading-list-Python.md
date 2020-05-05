@@ -20,3 +20,12 @@
 - [Unicode HOWTO¶](https://docs.python.org/3/howto/unicode.html)
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 
+### logging
+- [Good logging practice in Python](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/)
+
+### socket programming
+- [Socket Programming in Python (Guide)](https://realpython.com/python-sockets/)
+
+
+
+

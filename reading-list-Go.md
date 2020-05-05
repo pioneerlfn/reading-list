@@ -124,7 +124,7 @@ A curated selection of blog posts on Go
 - [Go语言圣经](https://yar999.gitbooks.io/gopl-zh/content/)
 - [Go语言高级编程](https://yar999.gitbooks.io/gopl-zh/content/)
 - [build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) (astaxie)
-- [webapp-with-golang-anti-textbook/](https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/)
+- [webapp-with-golang-anti-textbook](https://thewhitetulip.gitbooks.io/webapp-with-golang-anti-textbook/content/)
 - [the-blockchain-way-of-programming](https://web3coach-public.s3.eu-central-1.amazonaws.com/the-blockchain-way-of-programming-newsletter-version.pdf)
 
 
