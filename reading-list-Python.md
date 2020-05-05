@@ -22,6 +22,25 @@
 
 ### logging
 - [Good logging practice in Python](https://fangpenlin.com/posts/2012/08/26/good-logging-practice-in-python/)
+- [日志 HOWTO¶](https://docs.python.org/zh-cn/3/howto/logging.html)
+
+    logging的日志级别从上到下为:
+    ```python
+    CRITICAL = 50
+    FATAL = CRITICAL
+    ERROR = 40
+    WARNING = 30
+    WARN = WARNING
+    INFO = 20
+    DEBUG = 10
+    NOTSET = 0
+    ```
+    
+    如果将级别设置为某一档，则只会打印大于等于该档的日志。  
+    低于该档的日志将不会打印。
+
+    比如`level=logging.ERROR`, 则只会打印 `ERROR和FATAL` 这两个级别的日志。
+
 
 ### socket programming
 - [Socket Programming in Python (Guide)](https://realpython.com/python-sockets/)
