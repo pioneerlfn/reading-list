@@ -8,6 +8,7 @@ This is a collection of lectures and labs Linux kernel topics. The lectures focu
 ## Process
 
 - [What does an idle CPU do?](https://manybutfinite.com/post/what-does-an-idle-cpu-do/)
+- [《面向应用开发者的系统指南》CPU篇之进程调度](https://www.codedump.info/post/20200503-sgfap-process-schedule/)
 
 
 ## network
@@ -24,6 +25,8 @@ This is a collection of lectures and labs Linux kernel topics. The lectures focu
 - [Monitoring and Tuning the Linux Networking Stack: Sending Data
 ](https://blog.packagecloud.io/eng/2017/02/06/monitoring-tuning-linux-networking-stack-sending-data/)
 
+## I/O
+- [打通IO栈：一次编译服务器性能优化实战](https://mp.weixin.qq.com/s/cX1ciAsYZ0WZm6baFDl-NA)
 
 
 ## file system

@@ -1,4 +1,5 @@
-
+### cheet sheet
+[Python Cheat Sheet](https://www.pythonsheets.com/)
 
 ### shell
 - [使用Python创建你自己的Shell(上)](http://www.codeceo.com/article/create-your-own-shell-in-python-part-1.html)
